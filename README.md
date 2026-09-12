@@ -1,2 +1,2 @@
 # College-Projects
-I will put my personal projects here on my college. 
+I will put my personal projects here on my college journey. 
