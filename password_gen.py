@@ -7,7 +7,7 @@ length = int(input("How long do you want the password to be: "))
 # Combine all 4 character lists into one big "pool" to pick from
 pool = string.ascii_lowercase + string.ascii_uppercase + string.digits + string.punctuation
 
-# Start with an empty string (the password we're building)
+# Start with an empty string ""
 password = ""
 
 # Loop as many times as the user asked for
