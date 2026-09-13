@@ -1,6 +1,9 @@
 import random   # gives us random.choice() to pick random characters
 import string   # gives us ready-made lists of letters, numbers, symbols
 
+#print(dir(random)) #to just check what files inside the module
+#print(dir(string))
+
 # Ask the user how long they want the password, convert answer to a number
 length = int(input("How long do you want the password to be: "))
 
